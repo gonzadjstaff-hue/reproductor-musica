@@ -1,0 +1,25 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+
+# Carpetas generadas por PyInstaller
+build/
+dist/
+
+# Archivos del instalador Inno Setup
+Output/
+*.iss
+
+# Archivos temporales o de sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+.env/
